@@ -60,3 +60,4 @@ Automated benchmarks of `boost::unordered_flat_map` and `boost::unordered_node_m
 |<img src="https://raw.githubusercontent.com/joaquintides/boost_unordered_benchmarks/boost_unordered_flat_map_cfoa/img/vs-x86/Running insertion.xlsx.plot.png" width="250">|<img src="https://raw.githubusercontent.com/joaquintides/boost_unordered_benchmarks/boost_unordered_flat_map_cfoa/img/vs-x86/Running erasure.xlsx.plot.png" width="250">|<img src="https://raw.githubusercontent.com/joaquintides/boost_unordered_benchmarks/boost_unordered_flat_map_cfoa/img/vs-x86/Scattered successful looukp.xlsx.plot.png" width="250">|<img src="https://raw.githubusercontent.com/joaquintides/boost_unordered_benchmarks/boost_unordered_flat_map_cfoa/img/vs-x86/Scattered unsuccessful looukp.xlsx.plot.png" width="250">|
 |:-:|:-:|:-:|:-:|
 |Running insertion|Running erasure|Successful lookup|Unsuccessful lookup|
+
