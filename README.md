@@ -61,3 +61,4 @@ Automated benchmarks of `boost::unordered_flat_map` and `boost::unordered_node_m
 |:-:|:-:|:-:|:-:|
 |Running insertion|Running erasure|Successful lookup|Unsuccessful lookup|
 
+
